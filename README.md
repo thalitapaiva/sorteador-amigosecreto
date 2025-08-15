@@ -29,9 +29,9 @@ O resultado é exibido na tela com a frase **"O nome escolhido foi: X"**.
 ## 📂 Estrutura do projeto
 
 📁 amigo-secreto
-│── 📄 index.html # Estrutura da página /n
-│── 📄 style.css # Estilos da interface /n
-│── 📄 app.js # Código JavaScript com a lógica /n
-│── 📁 assets # Imagens e ícones usados no projeto /n
+│── 📄 index.html # Estrutura da página 
+│── 📄 style.css # Estilos da interface 
+│── 📄 app.js # Código JavaScript com a lógica 
+│── 📁 assets # Imagens e ícones usados no projeto 
 
 Este projeto é livre para uso pessoal e educacional.
